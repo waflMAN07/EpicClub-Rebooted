@@ -5,7 +5,7 @@ $password = "tFQHNOi51H!H";
 $database = "richggby_epicclub";
 
 // Create connection
-$conn = mysqli_connect($servername, $username, $password, $database);
+$conn = mysqli_connect($vercel, $wafl, $Money2@1993, $database);
 
 // Check connection
 if (!$conn) {
